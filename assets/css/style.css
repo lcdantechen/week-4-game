@@ -1,0 +1,43 @@
+
+h1{
+	font-size:3em;
+}
+h3{
+	font-size:2em;
+	color:#fff;
+}
+p{
+	margin:6px;
+}
+
+.characterPick{
+	padding-bottom: 200px;
+}
+.obi, .luke, .sidious, .maul{
+	width:180px;
+	text-align:center;
+	background-color: #fff;
+	border: solid green;
+  border-width: 1px;
+
+	float:left;
+}
+
+.redBack{
+	background-color:red;
+}
+
+img{
+	width:160px;
+	margin:0px auto;
+}
+
+body{
+	background: url(../images/background.jpg);
+   background-size: 200% ;
+    background-repeat: no-repeat;
+ 
+} 
+.clear{
+	clear:both;
+}
